@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/npar9999/Documents/AIML/My_project/mldev/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/mlruns/0/0fe69bf2b3d249cab13a45261aa8b308/artifacts
+end_time: 1633625021913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 0fe69bf2b3d249cab13a45261aa8b308
+run_uuid: 0fe69bf2b3d249cab13a45261aa8b308
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1633624998255
+status: 3
+tags: []
+user_id: npar9999

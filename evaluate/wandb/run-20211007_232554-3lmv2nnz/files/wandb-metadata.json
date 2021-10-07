@@ -1,0 +1,27 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-07T17:55:55.826515",
+    "startedAt": "2021-10-07T17:55:54.559589",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--model_export",
+        "model_export:latest",
+        "--test_data",
+        "data_test.csv:latest"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/evaluate/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "d17fd61434715a00a5b29bdde55fd75b04941b54"
+    },
+    "email": "npar9999.gmail.com",
+    "root": "/Users/npar9999/Documents/AIML/My_project/mldev/nd0821-c2-build-model-workflow-exercises",
+    "host": "NISHANTs-MacBook-Pro.local",
+    "username": "npar9999",
+    "executable": "/Applications/anaconda3/envs/mlflow-9ad98997f01f10ca95d41cc160bcad3e8dac16f6/bin/python"
+}

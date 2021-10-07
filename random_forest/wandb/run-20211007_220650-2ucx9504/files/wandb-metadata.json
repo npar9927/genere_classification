@@ -1,0 +1,35 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.8.12",
+    "heartbeatAt": "2021-10-07T16:36:53.567675",
+    "startedAt": "2021-10-07T16:36:50.311564",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--train_data",
+        "data_train.csv:latest",
+        "--model_config",
+        "/Users/npar9999/Documents/AIML/My_project/mldev/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/outputs/2021-10-07/22-02-29/random_forest_config.yml",
+        "--export_artifact",
+        "model_export",
+        "--random_seed",
+        "42",
+        "--val_size",
+        "0.3",
+        "--stratify",
+        "genre"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/solution/random_forest/run.py",
+    "git": {
+        "remote": "https://github.com/udacity/nd0821-c2-build-model-workflow-exercises.git",
+        "commit": "d17fd61434715a00a5b29bdde55fd75b04941b54"
+    },
+    "email": "npar9999.gmail.com",
+    "root": "/Users/npar9999/Documents/AIML/My_project/mldev/nd0821-c2-build-model-workflow-exercises",
+    "host": "NISHANTs-MacBook-Pro.local",
+    "username": "npar9999",
+    "executable": "/Applications/anaconda3/envs/mlflow-e38a66e56027dd29fa4c051140d2b45993a7fa9c/bin/python"
+}
